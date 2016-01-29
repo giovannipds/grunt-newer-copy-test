@@ -1,0 +1,18 @@
+{
+  "name": "grunt-newer-copy-test",
+  "version": "1.0.0",
+  "description": "Just a test repo for the usage of grunt-newer with grunt-contrib-copy.",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Giovanni Pires da Silva",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-copy": "^0.8.2",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-newer": "^1.1.1",
+    "jit-grunt": "^0.9.1"
+  }
+}
